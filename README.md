@@ -1,5 +1,6 @@
 # Numerologjia
 First: Something about Numerology
+
 Numerology is the pseudoscientific belief in a divine or mystical relationship between a number and one or more coinciding events. It is also the study of the numerical value of the letters in words, names, and ideas. It is often associated with the paranormal, alongside astrology and similar to divinatory arts.
 Despite the long history of numerological ideas, the word "numerology" is not recorded in English before c. 1907. 
 The term numerologist can be used for those who place faith in numerical patterns and draw pseudoscientific inferences from them, even if those people do not practice traditional numerology. For example, in his 1997 book Numerology: Or What Pythagoras Wrought, mathematician Underwood Dudley uses the term to discuss practitioners of the Elliott wave principle of stock market analysis.
