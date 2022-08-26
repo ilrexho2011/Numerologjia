@@ -1,8 +1,10 @@
 // ***********************************************
 //       NUMRAT ARMSTRONG 3 SHIFROR NE C++
 // ***********************************************
+
 #include <iostream>
 using namespace std;
+
 int main()
 {
   int Num, num, mbetja, sum = 0;
