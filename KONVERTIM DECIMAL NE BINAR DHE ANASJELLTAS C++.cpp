@@ -22,10 +22,10 @@ int main()
     {
     	case 1: {cout << "Jepni nje numer decimal: ";
     			 cin >> n;
-				 cout << n << " nga decimal = " << konvertoDecNeBin(n) << " ne binar";}break;
+			 cout << n << " nga decimal = " << konvertoDecNeBin(n) << " ne binar";} break;
 		case 2: {cout << "Jepni nje numer binar: ";
 			     cin >> n;
-			     cout << n << " nga binar = " << konvertoBinNeDec(n) << " ne decimal";}break;
+			     cout << n << " nga binar = " << konvertoBinNeDec(n) << " ne decimal";} break;
 		default: cout << "\n\tVlere e gabuar: "; goto rijep;
 	}
     return 0;
